@@ -19,9 +19,6 @@ Frontend Port: **3000**
 
 ---
 
-
----
-
 ## Technologies Used
 
 - Python (Flask)
@@ -120,18 +117,7 @@ GitHub repository contains:
 
 ---
 
-## Submission Notes
 
-- All three tasks use the same project codebase
-- Different deployment strategies are demonstrated without code duplication
-- Screenshots included for:
-  - Running applications
-  - PM2 status
-  - Kubernetes deployments
-  - ECS services and tasks
-- EC2 and ECS services were stopped after testing to minimize AWS cost
-
----
 
 ## Conclusion
 
